@@ -1,0 +1,6 @@
+C:\_Fatih\Çalışmalarım\C#\GetHtmlCode\GetHtmlCode\bin\Debug\GetHtmlCode.exe.config
+C:\_Fatih\Çalışmalarım\C#\GetHtmlCode\GetHtmlCode\bin\Debug\GetHtmlCode.exe
+C:\_Fatih\Çalışmalarım\C#\GetHtmlCode\GetHtmlCode\bin\Debug\GetHtmlCode.pdb
+C:\_Fatih\Çalışmalarım\C#\GetHtmlCode\GetHtmlCode\obj\Debug\GetHtmlCode.csprojResolveAssemblyReference.cache
+C:\_Fatih\Çalışmalarım\C#\GetHtmlCode\GetHtmlCode\obj\Debug\GetHtmlCode.exe
+C:\_Fatih\Çalışmalarım\C#\GetHtmlCode\GetHtmlCode\obj\Debug\GetHtmlCode.pdb
